@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Victoria DelaCruz
-- 🌱 I’m a Data Science major at Chaminade University of Honolulu
-- 🌴 I live in Honolulu, Hawai'i
+- 👋 Håfa Adai, I’m Victoria DelaCruz
+- 🌱 I am the Cyberinfrastructure Navigator for Chaminade University
+- 🌴 Originally from the Northern Marianas, living in Honolulu, Hawai'i
 - 📫 Reach me at vdlcruz670@gmail.com
 
 <!---
